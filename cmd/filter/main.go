@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/mgutz/logxi/v1"
+	"github.com/aa-ar/logxi"
 )
 
 func sendExternal(obj map[string]interface{}) {

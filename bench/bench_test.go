@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/mgutz/logxi/v1"
+	"github.com/aa-ar/logxi"
 	"gopkg.in/inconshreveable/log15.v2"
 )
 
