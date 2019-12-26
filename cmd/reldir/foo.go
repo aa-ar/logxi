@@ -1,6 +1,6 @@
 package reldir
 
-import "github.com/mgutz/logxi/v1"
+import "github.com/aa-ar/logxi"
 
 // Foo returns error
 func Foo() {
